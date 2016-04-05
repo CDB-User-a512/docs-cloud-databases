@@ -12,6 +12,7 @@ resolved issues, and other important details about |apiservice| |contract versio
 .. toctree::
    :maxdepth: 2
 
+   release-notes/cdbv9.99.9
    release-notes/cdbv2.47.0
    release-notes/cdbv2.40.0
    release-notes/cdbv2.36.0
